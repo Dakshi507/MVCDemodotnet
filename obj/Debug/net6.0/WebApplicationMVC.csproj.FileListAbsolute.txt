@@ -1,0 +1,60 @@
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\appsettings.json
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\WebApplicationMVC.staticwebassets.runtime.json
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\WebApplicationMVC.exe
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\WebApplicationMVC.deps.json
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\WebApplicationMVC.runtimeconfig.json
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\WebApplicationMVC.dll
+E:\cts_ training\WebApplicationMVC\bin\Debug\net6.0\WebApplicationMVC.pdb
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.AssemblyInfoInputs.cache
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.AssemblyInfo.cs
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.csproj.CoreCompileInputs.cache
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.RazorAssemblyInfo.cache
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.RazorAssemblyInfo.cs
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationMVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationMVC.props
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationMVC.props
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationMVC.props
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\scopedcss\bundle\WebApplicationMVC.styles.css
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationMVC.bundle.scp.css
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.dll
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\refint\WebApplicationMVC.dll
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.pdb
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\WebApplicationMVC.genruntimeconfig.cache
+E:\cts_ training\WebApplicationMVC\obj\Debug\net6.0\ref\WebApplicationMVC.dll
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\appsettings.json
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\WebApplicationMVC.staticwebassets.runtime.json
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\WebApplicationMVC.exe
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\WebApplicationMVC.deps.json
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\WebApplicationMVC.runtimeconfig.json
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\WebApplicationMVC.dll
+C:\Users\daksh\source\repos\MVCDemodotnet\bin\Debug\net6.0\WebApplicationMVC.pdb
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.AssemblyInfoInputs.cache
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.AssemblyInfo.cs
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.csproj.CoreCompileInputs.cache
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.RazorAssemblyInfo.cache
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.RazorAssemblyInfo.cs
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationMVC.props
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationMVC.props
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationMVC.props
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\scopedcss\bundle\WebApplicationMVC.styles.css
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationMVC.bundle.scp.css
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.dll
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\refint\WebApplicationMVC.dll
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.pdb
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\WebApplicationMVC.genruntimeconfig.cache
+C:\Users\daksh\source\repos\MVCDemodotnet\obj\Debug\net6.0\ref\WebApplicationMVC.dll
